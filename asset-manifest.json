@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/memory-games/static/css/main.aa9390e3.css",
+    "main.js": "/memory-games/static/js/main.aa81f905.js",
+    "static/js/592.c5e0f76d.chunk.js": "/memory-games/static/js/592.c5e0f76d.chunk.js",
+    "static/media/correctpair.mov": "/memory-games/static/media/correctpair.597706750304fd67f047.mov",
+    "static/media/rightorder.mov": "/memory-games/static/media/rightorder.d60557bb1557ab2d1215.mov",
+    "static/media/sad-face-emoji.gif": "/memory-games/static/media/sad-face-emoji.4dceb540d78f7b4e8c17.gif",
+    "static/media/thumbs-up-2584.gif": "/memory-games/static/media/thumbs-up-2584.2fc0d24f779d8190381e.gif",
+    "static/media/5073414.jpg": "/memory-games/static/media/5073414.74b9db733735005d474a.jpg",
+    "static/media/grapes.png": "/memory-games/static/media/grapes.7dbe075e10edd46b9428.png",
+    "static/media/Kiwi.png": "/memory-games/static/media/Kiwi.4a8d141e2b7b06995b73.png",
+    "static/media/Pineapple.png": "/memory-games/static/media/Pineapple.1e773a7a0f6d4b914a37.png",
+    "static/media/Mango.png": "/memory-games/static/media/Mango.38046be6fb56873e82ad.png",
+    "static/media/banana.png": "/memory-games/static/media/banana.e915b77273553695641d.png",
+    "static/media/1.mp4": "/memory-games/static/media/1.f2f0fa416f3a9742773a.mp4",
+    "static/media/2.mp4": "/memory-games/static/media/2.18f9e4d88847a2957e2f.mp4",
+    "static/media/apple.png": "/memory-games/static/media/apple.42f02e8c731b43817eb2.png",
+    "static/media/heart.png": "/memory-games/static/media/heart.2f135c3830a8258ce75c.png",
+    "static/media/puzzle.png": "/memory-games/static/media/puzzle.ac73ee385cf698fe0b7a.png",
+    "index.html": "/memory-games/index.html",
+    "main.aa9390e3.css.map": "/memory-games/static/css/main.aa9390e3.css.map",
+    "main.aa81f905.js.map": "/memory-games/static/js/main.aa81f905.js.map",
+    "592.c5e0f76d.chunk.js.map": "/memory-games/static/js/592.c5e0f76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa9390e3.css",
+    "static/js/main.aa81f905.js"
+  ]
+}
