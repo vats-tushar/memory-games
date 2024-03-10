@@ -12,7 +12,7 @@ function App() {
     <div>
       <Router basename='/memory-games'>
         <Routes>
-          <Route exact path='/memory-games' element={<Main/>}></Route>
+          <Route exact path='/' element={<Main/>}></Route>
           <Route exact path='/rightO' element={<Order/>}></Route>
           <Route exact path='/correctP' element={<Pair/>}></Route>
         </Routes>
