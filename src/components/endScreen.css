@@ -1,0 +1,9 @@
+.sad{
+    margin-left: 44%;
+}
+@media only screen and (max-width:500px) {
+    .sad{
+        margin-left: 30%;
+        transform: translateY(-20px);
+    }
+}
